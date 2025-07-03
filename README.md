@@ -75,12 +75,11 @@ Minha missão é projetar soluções escaláveis, performáticas e com foco em q
 
 ---
 
-### 📊 GitHub Insights
+### 📈 GitHub Insights
 
+![Ivan's GitHub Stats](https://ivanrodfre.vercel.app/api?username=ivanrodfre&show_icons=true&count_private=true&include_all_commits=true)
 
-![Ivan's GitHub Stats](https://SEU_SUBDOMINIO.vercel.app/api?username=ivanrodfre&show_icons=true&count_private=true&include_all_commits=true)
-
-[![Top Langs](https://vercel.com/ivanrodfres-projects.vercel.app/api/top-langs/?username=ivanrodfre&layout=compact&count_private=true)](https://github.com/ivanrodfre)
+[![Top Langs](https://ivanrodfre.vercel.app/api/top-langs/?username=ivanrodfre&layout=compact&count_private=true)](https://github.com/ivanrodfre)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanrodfre&theme=default)](https://github.com/ivanrodfre)
 
