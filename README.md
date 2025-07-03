@@ -55,7 +55,7 @@ Minha missão é projetar soluções escaláveis, performáticas e com foco em q
 **Banco de Dados**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="40"/><br>
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 
 <br>
 
@@ -77,9 +77,9 @@ Minha missão é projetar soluções escaláveis, performáticas e com foco em q
 
 ### 📊 GitHub Insights
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrodfre&show_icons=true&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrodfre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanrodfre)](https://github.com/ivanrodfre)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrodfre&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrodfre&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanrodfre&theme=default)](https://github.com/ivanrodfre)
 
 
 
