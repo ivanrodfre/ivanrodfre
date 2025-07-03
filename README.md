@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+  <a href="https://www.credly.com/badges/0a633a62-ba08-484d-bfa3-2ef3c901a63f" target="_blank">
     <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
+  <a href="https://www.credly.com/badges/46cc8aca-8613-4b50-a2a9-f06c897db7d9" target="_blank">
     <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   </a>
 </p>
@@ -59,30 +59,26 @@ Minha missão é projetar soluções escaláveis, performáticas e com foco em q
 
 <br>
 
-
 ### 💼 Experiências Recentes
 
-- **GCB (Grupo Casas Bahia)**  
+- **GCB (Grupo Casas Bahia)**  <br>
   __Líder Técnico / Engenheiro de Software_ 
 
-- **G4F**
-  _Clientes: CFC - Conselho Federal de Contabilidade_
+- **G4F** <br>
+  _Cliente: CFC - Conselho Federal de Contabilidade_ <br>
   _Líder Técnico / Engenheiro de Software | Arquiteto de Software__
 
-- **CWI Software**
-  _Clientes: ViaVarejo, OLX, Hypera_
-  _Líder Técnico / Engenheiro de Software_
+- **CWI Software** <br>
+  _Clientes: ViaVarejo, OLX, Hypera_ <br>
+  _Líder Técnico / Engenheiro de Software_ <br>
 
 ---
 
 ### 📈 GitHub Insights
 
 ![Ivan's GitHub Stats](https://ivanrodfre.vercel.app/api?username=ivanrodfre&show_icons=true&count_private=true&include_all_commits=true)
-
 [![Top Langs](https://ivanrodfre.vercel.app/api/top-langs/?username=ivanrodfre&layout=compact&count_private=true)](https://github.com/ivanrodfre)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanrodfre&theme=default)](https://github.com/ivanrodfre)
-
 
 ---
 
