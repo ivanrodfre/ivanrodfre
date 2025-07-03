@@ -1,7 +1,16 @@
 <h1 align="center">👋 Olá, sou Ivan Rodrigues</h1>
 <p align="center">
   <strong>Engenheiro de Software • Arquiteto de Soluções • Líder Técnico</strong><br/>
-  C# • .NET • Node.js • Angular • PHP • AWS • Azure
+  C# • .NET • Node.js • PHP • Angular • Azure • AWS 
+</p>
+
+<p align="center">
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+    <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
+    <img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -12,10 +21,10 @@
 
 ### 👨‍💻 Sobre
 
-Desenvolvedor com +20 anos de experiência, certificado pela AWS e Microsoft.  
-Atuando com .NET, PHP, Node e soluções escaláveis em nuvem desde 2016.  
-Pós-graduando em Governança de TI.  
-Pró-ativo na adoção de boas práticas como DDD, Clean Code, CQRS e Event-Driven.
+Brasiliense, formado em Sistemas de Informação e pós-graduando em Governança de TI.  
+Atuo há mais de 20 anos com desenvolvimento de software e arquitetura, sendo especialista em C# e tecnologias .NET desde 2016.
+
+Minha missão é projetar soluções escaláveis, performáticas e com foco em qualidade e resiliência. Apaixonado por boas práticas como DDD, SOLID, CQRS, microsserviços e sistemas distribuídos.
 
 </td>
 <td>
@@ -24,6 +33,8 @@ Pró-ativo na adoção de boas práticas como DDD, Clean Code, CQRS e Event-Driv
 </td>
 </tr>
 </table>
+
+---
 
 **Linguagens de Programação**
 
@@ -43,8 +54,8 @@ Pró-ativo na adoção de boas práticas como DDD, Clean Code, CQRS e Event-Driv
 
 **Banco de Dados**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="40"/> <br>
-|--|--|--|--|
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="40"/><br>
+|--|--|--|--|--|
 
 <br>
 
@@ -54,15 +65,17 @@ Pró-ativo na adoção de boas práticas como DDD, Clean Code, CQRS e Event-Driv
 - **GCB (Grupo Casas Bahia)**  
   __Líder Técnico / Engenheiro de Software_ 
 
-- **G4F (Cliente: CFC - Conselho Federal de Contabilidade)**  
+- **G4F**
+  _Clientes: CFC - Conselho Federal de Contabilidade_
   _Líder Técnico / Engenheiro de Software | Arquiteto de Software__
 
-- **CWI Software (Clientes: ViaVarejo, OLX, Hypera)**  
+- **CWI Software**
+  _Clientes: ViaVarejo, OLX, Hypera_
   _Líder Técnico / Engenheiro de Software_
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 GitHub Insights
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrodfre&show_icons=true&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrodfre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -70,17 +83,9 @@ Pró-ativo na adoção de boas práticas como DDD, Clean Code, CQRS e Event-Driv
 
 
 
-
 ---
 
-### 📜 Certificações
-
-[![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/0a633a62-ba08-484d-bfa3-2ef3c901a63f/linked_in_profile)
-[![Azure Certified](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/46cc8aca-8613-4b50-a2a9-f06c897db7d9/linked_in_profile)
-
----
-
-### 📝 Artigos
+### 📝 Artigos em Destaque
 
 - [Minha primeira contribuição para o LinkedIn Top Voice](https://www.linkedin.com/pulse/minha-primeira-contribui%C3%A7%C3%A3o-para-o-linkedin-top-voice-ivan-rodrigues-xwnie/)
 - [Plante uma semente para colher os frutos no futuro!!](https://www.linkedin.com/pulse/plante-uma-semente-para-colher-os-frutos-futuro-ivan-rodrigues/)
